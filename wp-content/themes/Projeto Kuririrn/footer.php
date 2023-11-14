@@ -2,7 +2,7 @@
   <div class="footer">
     <img id="kuririn" style="z-index:10000;" src="<?php bloginfo("template_url") ?>/assets/kuririn.svg" alt="Kuririn">
     <div class="overflow-hidden">
-    <img class="d-none d-md-block" id="kuririn-footer"  style="z-index:10000; transition: 0.3s;" src="<?php bloginfo("template_url") ?>/assets/kuririn.svg" alt="Kuririn">
+      <img class="d-none d-md-block" id="kuririn-footer" style="z-index:10000; transition: 0.3s;" src="<?php bloginfo("template_url") ?>/assets/kuririn.svg" alt="Kuririn">
     </div>
 
     <div class="footer-text">
@@ -17,6 +17,7 @@
           Participar
         </a>
       </button>
+      <!-- ssss -->
     </div>
   </div>
 </footer>
@@ -41,20 +42,19 @@
       }, 4500);
     }, 2500);
   });
-  
-const kuririnFooter = document.getElementById("kuririn-footer");
-document.addEventListener("DOMContentLoaded", function () {
+
+  const kuririnFooter = document.getElementById("kuririn-footer");
+  document.addEventListener("DOMContentLoaded", function() {
     kuririnFooter.style.marginBottom = "-152px";
-//   setTimeout(function () {
+    //   setTimeout(function () {
     // kuririnFooter.style.marginBottom = "-152px";
     kuririnFooter.classList.add("descending");
 
-    setTimeout(function () {
+    setTimeout(function() {
       kuririnFooter.style.marginBottom = "0";
     }, 8000);
-//   }, 0);
-});
-  
+    //   }, 0);
+  });
 </script>
 </body>
 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://projetokuririn.oxigenweb.com.br/sitemap_index.xml

@@ -1,0 +1,16 @@
+[10-Jul-2023 08:36:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/projetokuririnox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/projetokuririnox/public_html/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 08:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/projetokuririnox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/projetokuririnox/public_html/wp-admin/includes/admin.php on line 16
+[11-Jul-2023 23:48:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/projetokuririnox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/projetokuririnox/public_html/wp-admin/includes/admin.php on line 16
+[11-Jul-2023 23:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/projetokuririnox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/projetokuririnox/public_html/wp-admin/includes/admin.php on line 16
